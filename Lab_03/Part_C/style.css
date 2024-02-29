@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.window {
+    height: 50vh;
+    width: 50vw;
+    position: absolute;
+    z-index: 1;
+}
