@@ -1,0 +1,19 @@
+* {
+    font-family: 'Segoe UI';
+}
+
+body {
+    margin: 0;
+    height: 200vh;
+}
+
+.block {
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    position: sticky;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+}
