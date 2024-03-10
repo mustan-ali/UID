@@ -1,7 +1,7 @@
 <table>
   <tr>
     <th>Lab</th>
-    <th>Source Code</th>
+    <th>Demo</th>
   </tr>
   
   <tr>
