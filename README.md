@@ -20,4 +20,12 @@
       <a href="https://mustan-ali.github.io/UID/Lab_04/Part_B/">Part B</a>
     </td>
   </tr>
+
+   <tr>
+    <td>8</td>
+    <td>
+      <a href="https://mustan-ali.github.io/UID/Lab_08/Part_A/">Part A</a> .
+      <a href="https://mustan-ali.github.io/UID/Lab_08/Part_B/">Part B</a>
+    </td>
+  </tr>
 </table>
