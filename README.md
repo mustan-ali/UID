@@ -28,4 +28,12 @@
       <a href="https://mustan-ali.github.io/UID/Lab_08/Part_B/">Part B</a>
     </td>
   </tr>
+  </tr>
+
+   <tr>
+    <td>10</td>
+    <td>
+      <a href="https://mustan-ali.github.io/UID/Lab_10/Part_A/">Part A</a>
+    </td>
+  </tr>
 </table>
