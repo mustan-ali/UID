@@ -36,4 +36,11 @@
       <a href="https://mustan-ali.github.io/UID/Lab_10/Part_A/">Part A</a>
     </td>
   </tr>
+
+   <tr>
+    <td>14</td>
+    <td>
+      <a href="https://mustan-ali.github.io/UID/Lab_14/Part_A/">Part A</a>
+    </td>
+  </tr>
 </table>
